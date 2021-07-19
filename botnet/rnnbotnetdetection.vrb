@@ -1,0 +1,16 @@
+\frametitle{Conclusion}
+\begin{minipage}[0.2\textheight]{\textwidth}
+\begin{columns}[T]
+\begin{column}{0.5\textwidth}
+\begin{itemize}
+\item Most all port 80 HTTP- service connections where normal
+\item Most all ports with no listed service connections were botnet
+\item Data size, periodicity, and duration of TCP connections were not correlated to labels
+\item How good was the data set? Can other botnet datasets be classified just off of TCP source port? Seems too simple...
+\end{itemize}
+\end{column}
+\begin{column}{0.5\textwidth}
+\includegraphics[width=5cm]{Images/conclusion.png}
+\end{column}
+\end{columns}
+\end{minipage}
