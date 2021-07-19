@@ -1,0 +1,15 @@
+\frametitle{Conclusion}
+\begin{minipage}[0.2\textheight]{\textwidth}
+\begin{columns}[T]
+\begin{column}{0.5\textwidth}
+\begin{itemize}
+\item Unremarkably, having total access to training data and having your adversary have no access to their own training data gives high control over test data predictions
+\item Label-targeting attacks have good defenses, but not untargeted
+\item Development of an untargeted defense seems like a trivial alteration to Neural Cleanse
+\end{itemize}
+\end{column}
+\begin{column}{0.5\textwidth}
+\includegraphics[width=5cm]{Images/conclusion.png}
+\end{column}
+\end{columns}
+\end{minipage}
